@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # these will run as the default non-privileged user.
-# Very useful to Build Linux Application 
+# Very useful to Build Linux Application
+# Need to be used for WSL automation
 # set a version number
 VERSION="1.0.0"
 
